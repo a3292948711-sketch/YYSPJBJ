@@ -1,0 +1,226 @@
+[
+  {
+    "id": "rose",
+    "name": "玫瑰",
+    "src": "assets/rose.svg",
+    "kind": "small",
+    "effect": "float"
+  },
+  {
+    "id": "flower",
+    "name": "小红花",
+    "src": "assets/flower.svg",
+    "kind": "small",
+    "effect": "combo"
+  },
+  {
+    "id": "gift",
+    "name": "礼盒",
+    "src": "assets/gift.svg",
+    "kind": "small",
+    "effect": "combo"
+  },
+  {
+    "id": "heart",
+    "name": "爱心",
+    "src": "assets/heart.svg",
+    "kind": "small",
+    "effect": "float"
+  },
+  {
+    "id": "diamond",
+    "name": "钻石",
+    "src": "assets/diamond.svg",
+    "kind": "small",
+    "effect": "drop"
+  },
+  {
+    "id": "crown",
+    "name": "皇冠",
+    "src": "assets/crown.svg",
+    "kind": "small",
+    "effect": "combo"
+  },
+  {
+    "id": "cake",
+    "name": "蛋糕",
+    "src": "assets/cake.svg",
+    "kind": "small",
+    "effect": "combo"
+  },
+  {
+    "id": "balloon",
+    "name": "气球",
+    "src": "assets/balloon.svg",
+    "kind": "small",
+    "effect": "rise"
+  },
+  {
+    "id": "star",
+    "name": "星星",
+    "src": "assets/star.svg",
+    "kind": "small",
+    "effect": "drop"
+  },
+  {
+    "id": "candy",
+    "name": "糖果",
+    "src": "assets/candy.svg",
+    "kind": "small",
+    "effect": "drop"
+  },
+  {
+    "id": "lollipop",
+    "name": "棒棒糖",
+    "src": "assets/lollipop.svg",
+    "kind": "small",
+    "effect": "drop"
+  },
+  {
+    "id": "cookie",
+    "name": "曲奇",
+    "src": "assets/cookie.svg",
+    "kind": "small",
+    "effect": "drop"
+  },
+  {
+    "id": "coffee",
+    "name": "咖啡",
+    "src": "assets/coffee.svg",
+    "kind": "small",
+    "effect": "combo"
+  },
+  {
+    "id": "icecream",
+    "name": "冰淇淋",
+    "src": "assets/icecream.svg",
+    "kind": "small",
+    "effect": "combo"
+  },
+  {
+    "id": "orange",
+    "name": "橙子",
+    "src": "assets/orange.svg",
+    "kind": "small",
+    "effect": "drop"
+  },
+  {
+    "id": "cherry",
+    "name": "樱桃",
+    "src": "assets/cherry.svg",
+    "kind": "small",
+    "effect": "drop"
+  },
+  {
+    "id": "clap",
+    "name": "掌声",
+    "src": "assets/clap.svg",
+    "kind": "small",
+    "effect": "combo"
+  },
+  {
+    "id": "kiss",
+    "name": "亲亲",
+    "src": "assets/kiss.svg",
+    "kind": "small",
+    "effect": "float"
+  },
+  {
+    "id": "butterfly",
+    "name": "蝴蝶",
+    "src": "assets/butterfly.svg",
+    "kind": "small",
+    "effect": "rise"
+  },
+  {
+    "id": "bear",
+    "name": "小熊",
+    "src": "assets/bear.svg",
+    "kind": "small",
+    "effect": "drop"
+  },
+  {
+    "id": "baseball",
+    "name": "棒球",
+    "src": "assets/baseball.svg",
+    "kind": "small",
+    "effect": "impact"
+  },
+  {
+    "id": "boxing",
+    "name": "拳套",
+    "src": "assets/boxing.svg",
+    "kind": "small",
+    "effect": "impact"
+  },
+  {
+    "id": "meteor",
+    "name": "流星",
+    "src": "assets/meteor.svg",
+    "kind": "small",
+    "effect": "shoot"
+  },
+  {
+    "id": "money",
+    "name": "金币",
+    "src": "assets/money.svg",
+    "kind": "small",
+    "effect": "drop"
+  },
+  {
+    "id": "rocket",
+    "name": "火箭升空",
+    "src": "assets/rocket.webp",
+    "kind": "special",
+    "effect": "rise"
+  },
+  {
+    "id": "party",
+    "name": "礼炮时刻",
+    "src": "assets/party.webp",
+    "kind": "special",
+    "effect": "burst"
+  },
+  {
+    "id": "confetti",
+    "name": "缤纷庆典",
+    "src": "assets/confetti.webp",
+    "kind": "special",
+    "effect": "burst"
+  },
+  {
+    "id": "surprise",
+    "name": "惊喜礼盒",
+    "src": "assets/surprise.webp",
+    "kind": "special",
+    "effect": "bloom"
+  },
+  {
+    "id": "love",
+    "name": "心动告白",
+    "src": "assets/love.webp",
+    "kind": "special",
+    "effect": "bloom"
+  },
+  {
+    "id": "fire",
+    "name": "热力全开",
+    "src": "assets/fire.webp",
+    "kind": "special",
+    "effect": "bloom"
+  },
+  {
+    "id": "gem",
+    "name": "闪耀钻石",
+    "src": "assets/gem.webp",
+    "kind": "special",
+    "effect": "bloom"
+  },
+  {
+    "id": "royal",
+    "name": "荣耀皇冠",
+    "src": "assets/royal.webp",
+    "kind": "special",
+    "effect": "bloom"
+  }
+]

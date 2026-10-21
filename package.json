@@ -1,0 +1,9 @@
+{
+  "name": "gift-studio-local",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "description": "Local manual gift controller and transparent OBS overlay"
+}

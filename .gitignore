@@ -1,0 +1,12 @@
+node_modules/
+runtime/*.exe
+data/*
+!data/.gitkeep
+*.log
+*.tmp
+.env
+.env.*
+!.env.example
+backups/
+.DS_Store
+Thumbs.db
